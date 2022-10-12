@@ -11,6 +11,7 @@
 >pm2 start ecosystem.config.js
 
 ###### Please import db. Sql file is under db directory.
+###### Fill your mysql configration in config.js file
 
 ## APIs
 
