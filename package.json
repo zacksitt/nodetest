@@ -1,0 +1,31 @@
+{
+  "name": "nodetest",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "mocha"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "knayi-myscript": "^2.7.0",
+    "mocha": "^10.0.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^2.3.3",
+    "q": "^1.5.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.6",
+    "sequelize": "^6.24.0"
+  }
+}
