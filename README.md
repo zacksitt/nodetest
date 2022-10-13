@@ -19,6 +19,9 @@ github link: https://github.com/zacksitt/nodetest
 ###### Please import db. Sql file is under db directory.
 ###### Fill your mysql configration in config.js file
 
+###### Unit Testing
+>npm test
+
 ## APIs
 
 --------------------------------------------
