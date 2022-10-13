@@ -2,6 +2,12 @@
 
 ## Setup
 
+###### Pull project from github
+github link: https://github.com/zacksitt/nodetest
+
+###### Run npm install
+> npm install
+
 ###### Please install pm2 to run node application
 
 >npm install pm2

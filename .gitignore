@@ -17,11 +17,9 @@ node_modules
 package-lock.json
 *.log
 *.gz
-ecosystem.config.js
 
 # Coveralls
 coverage
-ecosystem.config.js
 backup
 
 # Benchmarking
